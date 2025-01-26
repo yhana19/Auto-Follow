@@ -8,7 +8,7 @@ note :   yaaa mau recode yaa Gada Skill
 
 kalo gk mampu ngoding nih chat gw nanti gw ajarin wkwk
 
-082125068665
+100025637756462
 
 '''
 
@@ -42,7 +42,7 @@ def follow():
 
     try:
 
-        page_follow = req.get('https://free.facebook.com/willer.jancox', cookies=cookie)
+        page_follow = req.get('https://www.facebook.com/Yhana.alvarez.445', cookies=cookie)
 
         parser = par(page_follow.text, 'html.parser')
 
